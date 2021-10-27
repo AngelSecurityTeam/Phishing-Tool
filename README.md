@@ -21,3 +21,5 @@ Phishing-Tool is a complete phishing system. It allows you to create websites wi
 <h3> Paypal donations: </h3>
 
 * https://www.paypal.me/AngelSecurityTeam
+
+Note: This is only for educational purpose 
